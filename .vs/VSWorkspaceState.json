@@ -8,8 +8,9 @@
   "ExpandedNodes": [
     "",
     "\\src",
+    "\\src\\console",
     "\\src\\core"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\src\\console",
   "PreviewInSolutionExplorer": false
 }
