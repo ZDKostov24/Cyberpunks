@@ -8,9 +8,8 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\console",
-    "\\src\\core"
+    "\\src\\graphics"
   ],
-  "SelectedNode": "\\src\\console",
+  "SelectedNode": "\\src\\graphics\\fonts.cpp",
   "PreviewInSolutionExplorer": false
 }
