@@ -2,11 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\src",
-    "\\src\\console",
-    "\\src\\core",
-    "\\src\\graphics"
+    "\\test"
   ],
-  "SelectedNode": "\\assets",
+  "SelectedNode": "\\test",
   "PreviewInSolutionExplorer": false
 }
