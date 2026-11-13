@@ -1,9 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
     "\\src",
+    "\\src\\console",
+    "\\src\\core",
     "\\src\\graphics"
   ],
-  "SelectedNode": "\\src\\graphics",
+  "SelectedNode": "\\assets",
   "PreviewInSolutionExplorer": false
 }
