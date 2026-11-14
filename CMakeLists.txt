@@ -36,6 +36,7 @@ add_executable(escape_the_mainframe
     src/graphics/fonts.cpp
     src/graphics/particles.cpp
     src/graphics/code_rain.cpp
+    src/graphics/theme.cpp
 )
 target_include_directories(escape_the_mainframe PRIVATE src/graphics)
 target_link_libraries(escape_the_mainframe PRIVATE maze_core raylib)
