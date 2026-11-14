@@ -1,13 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
-    "\\assets\\fonts",
-    "\\src",
-    "\\src\\console",
     "\\src\\core",
     "\\src\\graphics"
   ],
-  "SelectedNode": "\\src\\graphics\\code_rain.cpp",
+  "SelectedNode": "\\CMakeLists.txt",
   "PreviewInSolutionExplorer": false
 }
