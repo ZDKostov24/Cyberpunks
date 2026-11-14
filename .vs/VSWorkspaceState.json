@@ -1,11 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
+    "\\assets\\fonts",
     "\\src",
     "\\src\\console",
     "\\src\\core",
     "\\src\\graphics"
   ],
-  "SelectedNode": "\\src\\graphics\\maze_renderer.h",
+  "SelectedNode": "\\src\\graphics\\code_rain.cpp",
   "PreviewInSolutionExplorer": false
 }
